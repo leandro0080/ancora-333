@@ -1,0 +1,24 @@
+h1{ text-align: center;
+    color: blue;
+border-color: rgb(255, 55, 128);
+border-style: groove;
+border-width: px;
+background-color: aquamarine;
+}
+
+h2{
+    color: brown;
+}
+
+h3{
+    color: blue;
+}
+
+h4{
+    color: blueviolet;
+}
+
+h5{
+    color: blue;
+    font-size: medium;
+}
